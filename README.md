@@ -1,7 +1,7 @@
 # Creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
 
